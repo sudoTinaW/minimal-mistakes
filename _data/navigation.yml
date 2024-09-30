@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Minutes"
-    url: 
-  - title: "News"
-    url: /posts/
+  - title: "Meetings"
+    url: /meetings/
   - title: "Volunteers"
     url: /volunteer/
   - title: "Survey"
     url: /survey/
+  - title: "Links"
+    url: /links/
   - title: "About"
     url: /about/
