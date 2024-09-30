@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -24,7 +24,7 @@ name                     : #"Your Name"
 description              : "Macleod's Landing School Council works collaboratively to build partnerships that encourage involvement of all members of
                             the school community to provide input into relevant Board and school-level decisions."
 url                      : https://macleods.tinawang.ca# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : sudoTinaW/minimal-mistakes
 teaser                   : #"/assets/img/teaser.png"
 logo                     : "/assets/img/logo.png"
