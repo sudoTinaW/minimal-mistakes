@@ -1,5 +1,5 @@
 ---
 
-permalink: /surveys/
+permalink: /survey/
 
 ---
