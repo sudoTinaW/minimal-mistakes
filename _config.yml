@@ -23,7 +23,7 @@ subtitle                 : #Together We Soar
 name                     : #"Your Name"
 description              : "Macleod's Landing School Council works collaboratively to build partnerships that encourage involvement of all members of
                             the school community to provide input into relevant Board and school-level decisions."
-url                      : https://macleods.tinawang.ca# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://macleods.tinawang.ca # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : sudoTinaW/minimal-mistakes
 teaser                   : #"/assets/img/teaser.png"
