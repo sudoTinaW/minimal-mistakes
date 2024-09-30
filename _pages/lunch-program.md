@@ -4,7 +4,7 @@ permalink: /lunch-program/
 
 ---
 
-## Vendors
+### Vendors
 
 #### Toppings Pizza(Tuesdays)
 
@@ -17,7 +17,7 @@ Orders must be placed by 10am Wednesday.
 [Order Here][https://www.kidskitchen.ca/]
 
 
-## FAQs
+### FAQs
 
 1. **Can I cancel my order after it has been placed?**
    No, orders cannot be canceled or refunded as this is a fundraising event.
