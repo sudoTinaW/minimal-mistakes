@@ -2,11 +2,11 @@
 main:
   - title: "Meetings"
     url: /meetings/
-  - title: "Volunteers"
-    url: /volunteer/
   - title: "Survey"
     url: /survey/
   - title: "Links"
     url: /links/
+  - title: "Lunch Programs"
+    url: /lunch-program/
   - title: "About"
     url: /about/
