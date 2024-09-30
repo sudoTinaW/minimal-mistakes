@@ -2,8 +2,8 @@
 main:
   - title: "Meetings"
     url: /meetings/
-  - title: "Survey"
-    url: /survey/
+  - title: "Surveys"
+    url: /surveys/
   - title: "Links"
     url: /links/
   - title: "Lunch Programs"

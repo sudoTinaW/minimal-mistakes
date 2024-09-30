@@ -4,7 +4,7 @@ permalink: /lunch-program/
 
 ---
 
-## Venders
+## Vendors
 
 #### Toppings Pizza(Tuesdays)
 
