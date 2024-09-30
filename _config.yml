@@ -224,6 +224,9 @@ collections:
   meetings:
     output: true
     permalink: /:collection/:path/
+  surveys:
+    output: true
+    permalink: /:collection/:path/
 
 # Sass/SCSS
 sass:
@@ -344,6 +347,16 @@ defaults:
   - scope:
       path: ""
       type: meetings
+    values:
+      show_date: true
+      layout: single
+      author_profile: false
+      share: false
+  
+  # surveys
+  - scope:
+      path: ""
+      type: surveys
     values:
       show_date: true
       layout: single
