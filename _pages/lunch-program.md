@@ -6,21 +6,13 @@ permalink: /lunch-program/
 
 
 
-
-
-### Vendors
-
-#### Toppings
-
-![ToppingsLogo](/assets/img/ToppingsLogo.png)
+![ToppingsLogo](/assets/img/toppingsLogo.png)
 
 Every Tuesday from *2024-10-08* to *2024-12-17*
 
 [Order from School Cash Online](https://yrdsb.schoolcashonline.com/)(Deadline to register *2024-09-29*)
 
 
-
-#### Kids Kitchen
 
 ![Kids Kitchen Logo](/assets/img/kidsKitchenLogo.png)
 
