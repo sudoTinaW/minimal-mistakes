@@ -4,17 +4,20 @@ permalink: /lunch-program/
 
 ---
 
-#### Toppings Pizza(Tuesdays)
+
 
 ![ToppingsLogo](/assets/img/ToppingsLogo.png)
 
-**2024-10-08** to **2024-12-17**
-[Order from School Cash Online](https://yrdsb.schoolcashonline.com/)(Deadline to register **2024-09-29**)
+Every Tuesday from *2024-10-08* to *2024-12-17*
 
-#### Kids Kitchen(Thursdays)
+[Order from School Cash Online](https://yrdsb.schoolcashonline.com/)(Deadline to register *2024-09-29*)
+
+
+
 ![Kids Kitchen Logo](/assets/img/kidsKitchenLogo.png)
 
-Every Thursday starting from**2024-10-03**
+Every Thursday starting from *2024-10-03*
+
 Orders must be placed by 10am Wednesday.
 
 [Order Here](https://www.kidskitchen.ca/)
