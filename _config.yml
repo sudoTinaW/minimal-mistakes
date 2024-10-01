@@ -345,10 +345,10 @@ defaults:
   
   # meetings
   - scope:
-      path: ""
-      type: meetings
+      path: "/meetings"
+      type: posts
     values:
-      show_date: true
+      show_date: false
       layout: single
       author_profile: false
       share: false
